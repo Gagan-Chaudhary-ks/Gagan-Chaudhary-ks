@@ -1,18 +1,18 @@
 # 👋 Hi, I'm Gagan Chaudhary
 
 🎓 Final Year B.Tech (ECE) Student
-💻 Aspiring Backend Developer (Java)
+💻 Aspiring Backend Developer (Java | Spring Boot)
 🚀 Targeting Software Engineering Roles (2026)
 
 ---
 
 ## 🚀 About Me
 
-* 🔧 Backend-focused developer with hands-on experience in **Java, JDBC, and MySQL**
-* 🏗 Built **database-driven applications** with transaction management & clean architecture
-* 📊 Strong foundation in **Data Structures, OOP, and Problem Solving**
-* ⚙️ Internship experience in **computer vision pipelines & deployment automation**
-* 🎯 Actively preparing for **software engineering placements**
+* 🔧 Backend-focused developer with hands-on experience in Java, Spring Boot, JPA, and MySQL
+* 🏗 Building RESTful APIs with clean layered architecture (Controller → Service → Repository)
+* 📊 Strong foundation in Data Structures, OOP, and Problem Solving
+* ⚙️ Experience in database design, validation logic, and API development
+* 🎯 Actively preparing for software engineering placements
 
 ---
 
@@ -35,8 +35,12 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ### ⚙️ Backend & Database
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-000000?style=for-the-badge)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge)
 ![JDBC](https://img.shields.io/badge/JDBC-000000?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 ### 🌐 Frontend
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -60,8 +64,10 @@
 
 ### 🎟 Ticket Management System
 
-* Backend system for issue tracking using **Java + JDBC + MySQL**
-* Implemented **CRUD operations, DAO architecture, and schema design**
+* Built RESTful APIs using Spring Boot, JPA, and MySQL
+* Implemented CRUD operations, DTO pattern, and entity relationships
+* Designed layered architecture (Controller → Service → Repository)
+* Added business validations (assign tickets only to existing users)
 
 ### 📋 User-Task Management System
 
@@ -86,4 +92,4 @@
 
 ---
 
-⭐ *Focused on building scalable backend systems and continuously improving problem-solving skills*
+⭐ *Focused on building scalable backend systems and mastering Java backend development*
